@@ -1,0 +1,14 @@
+{
+  "ver": "1.1.45",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "134510b2-7bbb-4f44-824b-48b0e4172081",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "form_register",
+    "persistent": false
+  }
+}
